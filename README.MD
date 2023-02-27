@@ -2,16 +2,16 @@
 
 
 
-- #### O que é o Direito Penal 
+- ### O que é o Direito Penal 
 
-- #### Importância do Direito Penal
+- ### Importância do Direito Penal
 
-- #### Fontes do Direito Penal
+- ### Fontes do Direito Penal
 
   - Fonte Material
   - Fonte Formal
 
-- #### Princípios do Direito Penal
+- ### Princípios do Direito Penal
 
   - Princípio da Ampla Defesa
   - Princípio da Legalidade
